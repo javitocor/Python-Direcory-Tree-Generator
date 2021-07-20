@@ -50,7 +50,12 @@ To have this app on your pc, you need to:
   ```
     https://github.com/javitocor/Python-Direcory-Tree-Generator.git
   ```
-
+## Options
+- Use ´python tree.py´ + ´directory´ in your CLI
+- -v, --version show the current version information and exit the application.
+- -h, --help show help and usage messages.
+- -d, --dir-only generate a directory-only tree and print it into the screen.
+- -o, --output-to-markdown generate a tree and save it to a file in markdown format.´(python tree.py + dir +  -o output_file.md)´
 ## Author
 
 👤 Javier Oriol Correas Sanchez Cuesta 

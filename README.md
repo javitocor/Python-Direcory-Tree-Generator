@@ -26,7 +26,7 @@ Things you may want to c<!--
 
 # Python Directory Tree Generator
 
->  A Directory Tree Generator in command line. 
+>  A Directory Tree Generator for the command line. 
 
 Additional description about the project and its features.
 
